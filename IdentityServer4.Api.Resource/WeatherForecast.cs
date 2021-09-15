@@ -1,6 +1,6 @@
 using System;
 
-namespace IdentityServer4.Test.Api
+namespace IdentityServer4.Api.Resource
 {
     public class WeatherForecast
     {
